@@ -9,8 +9,6 @@ This course covers the essential computing skills and statistical methods used i
 ## Repository Structure
 
 - `lectures/` — lecture notes and slides
-- `homework/` — problem sets
-- `tests/` — example test suite (`pytest`)
 - `pyproject.toml` — Python project/package configuration
 - `environment.yml` — conda environment for course software
 
