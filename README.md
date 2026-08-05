@@ -22,20 +22,20 @@ Meets Mondays and Wednesdays, 2:00–3:30 PM. Fall 2026 term per the [UT Austin 
 ### Part I: Computing Foundations
 | #          | Date        | Topic                       |
 | ---------- | ----------- | --------------------------- |
-| [[#Lec 1]] | Mon, Aug 24 | Course introduction; Git    |
-| [[#Lec 2]] | Wed, Aug 26 | Scientific computing basics |
+| 1 | Mon, Aug 24 | Course introduction; Git    |
+| 2 | Wed, Aug 26 | Scientific computing basics |
 
 ### Part II: Bayesian Inference
 | #          | Date        | Topic                                                 |
 | ---------- | ----------- | ----------------------------------------------------- |
-| [[#Lec 3]] | Wed, Aug 31 | Probability foundations and Bayes' theorem            |
-| [[#Lec 4]] | Wed, Sep 2  | Parameter estimation: priors, likelihoods, posteriors |
-| 5          | Wed, Sep 9  | Optimization                                          |
-| 6          | Mon, Sep 14 | MC methods, rejection sampling                        |
-| 7          | Wed, Sep 16 | MCMC I: Metropolis-Hastings, `emcee`                  |
-| 8          | Mon, Sep 21 | MCMC II: Hamiltonian Monte Carlo                      |
-| 9          | Wed, Sep 23 | Model comparison: evidence, information criteria      |
-| 10         | Mon, Sep 28 | Hierarchical Bayesian modeling                        |
+| 3 | Wed, Aug 31 | Probability foundations and Bayes' theorem            |
+| 4 | Wed, Sep 2  | Parameter estimation: priors, likelihoods, posteriors |
+| 5 | Wed, Sep 9  | Optimization                                          |
+| 6 | Mon, Sep 14 | MC methods, rejection sampling                        |
+| 7 | Wed, Sep 16 | MCMC I: Metropolis-Hastings, `emcee`                  |
+| 8 | Mon, Sep 21 | MCMC II: Hamiltonian Monte Carlo                      |
+| 9 | Wed, Sep 23 | Model comparison: evidence, information criteria      |
+| 10| Mon, Sep 28 | Hierarchical Bayesian modeling                        |
 
 ### Part III: Machine Learning
 | #   | Date        | Topic                           |
