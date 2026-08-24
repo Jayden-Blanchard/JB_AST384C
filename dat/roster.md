@@ -1,3 +1,4 @@
 # Fall 2026 Roster
 # name, eid
-Bocheng, bf22529
+Nikhil Garuda, ng27753
+Bocheng Feng, bf225
