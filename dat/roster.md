@@ -2,6 +2,7 @@
 # name, eid
 madeline casas, mcc3842
 Nikhil Garuda, ng27753
+Bella Longo, il6592
 Bocheng Feng, bf225
 Natalia Villanueva, ncv375
 Michelle Giovacchini, mag24279
