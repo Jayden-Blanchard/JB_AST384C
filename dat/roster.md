@@ -7,3 +7,4 @@ Michelle Giovacchini, mag24279
 Tae Bong Jeong, tj9977
 Junehyoung Jeon, jj37367
 John Trevino, jt37335
+Jayden Blanchard, jab25282
