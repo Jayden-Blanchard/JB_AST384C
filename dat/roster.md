@@ -12,3 +12,4 @@ John Trevino, jt37335
 Jayden Blanchard, jab25282
 Olivia Boyd, ojb428
 Ines Belkhodja, iab842
+Julianna Levanti, jml7722
