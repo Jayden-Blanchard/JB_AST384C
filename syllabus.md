@@ -15,7 +15,6 @@ Unique Number: 50980
 This course covers the essential computing skills and statistical methods used in modern astrophysical research. Students will learn version control and collaborative workflows, remote/HPC computing, and the statistical and machine learning tools that underpin contemporary data analysis in astrophysics — with an emphasis on Bayesian inference and simulation-based inference.
 
 
-
 ## Instructor
 
 Prof. ChangHoon Hahn (changhoon.hahn@utexas.edu)
@@ -99,6 +98,10 @@ Classes begin **Monday, August 24, 2026**; the last class day is **Monday, Decem
 | 27 | Wed, Dec 2 | Final project presentations I |
 | 28 | Mon, Dec 7 | Final project presentations II (last class day) |
 
+### Final Exam 
+
+This course will not have a final exam. 
+
 ## Course Policies
 
 ### Recording of Class
@@ -107,7 +110,7 @@ Under HOP 2-9970, students may not record class instruction (audio or video) wit
 
 ### AI Policy
 
-AI tools (including large language models) are **permitted with disclosure**:
+Generative AI tools (including large language models) are **permitted with disclosure**:
 
 - You may use AI tools to accelerate coding, debug errors, and explore concepts — the same way you'd use documentation or a colleague.
 - You remain fully responsible for the correctness of anything you submit. AI-assisted code and analysis must be understood and verifiable by you; "the AI wrote it" is not an acceptable explanation for an error.
@@ -129,10 +132,10 @@ If you are already registered with D&A, please share your accommodation letter w
 
 Students are expected to uphold the University's Honor Code and the Student Conduct Code. Collaboration on homework is encouraged unless stated otherwise, but each student must write and understand their own submitted code and analysis. The AI Policy above applies to all coursework. Suspected violations will be referred to Student Conduct and Academic Integrity per University policy.
 
-### Attendance
+### Class Attendance
 
 Because a substantial portion of the grade (40%) comes from in-class, hands-on activities, regular attendance is expected. Excused absences (illness, religious holy days, University-sanctioned activities) will not be penalized; contact the instructor in advance when possible.
 
 ### University Policies and Resources for Students
 
-For additional University-wide policies (Title IX, mental health resources, sharing of course materials, etc.), see the University Policies and Resources for Students page on Canvas.
+For additional University-wide policies (Title IX, mental health resources, sharing of course materials, etc.), see the University Policies and Resources for Students page on Canvas (https://utexas.instructure.com/courses/1450930).
